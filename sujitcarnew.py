@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1wP3_doAI_cqtVypTdA7Xro5mUo9vGt1_
 """
 import scikit-learn as sklearn
-
 import streamlit as st
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
